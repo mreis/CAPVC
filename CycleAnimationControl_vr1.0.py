@@ -247,7 +247,7 @@ class MenuBar(QMenuBar):
         self.addMenu(self.help)
 
     def helpMe(self): 
-        pm.showHelp("http://www.melies.com.br", absolute=True, )  
+        pm.showHelp("https://mendelreis.wordpress.com/2018/01/10/cycle-animation-playblast-and-version-control/", absolute=True, )  
 
     def aboutMe(self):
 

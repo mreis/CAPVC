@@ -10,7 +10,7 @@ What does it do: 
 -Lets you specify idle name, start and end frame, information about the cycle and the playblast version you last did. Playblast it nicelly for you
 
 How to run it: 
--Just copy the load the file into your Maya script editor and run it. You can also drag it to your own shelf. 
+-Just load the CycleAnimationControl_vr1.0.py file into your Maya script editor and run it. You can also drag it to your own shelf. 
 
 Features: 
 -choose which cycles to perform playblast, selected or all.
